@@ -1,5 +1,4 @@
 # Real-Time Editor
-Project size: 5.41 KB
 
 ![Editor](https://cdn.hackclub.com/01a0d94b-3cde-7a08-9ea5-0a8d48b81fd2/Screenshot%20From%202026-09-25%2018-59-28.png)
 A small browser-based editor where you can write HTML, CSS, and JavaScript and see the result immediately.
@@ -54,7 +53,3 @@ The download happens directly in the browser, so nothing is uploaded to a server
 * CSS
 * JavaScript
 * Split.js
-
-## Why I made it
-
-I wanted something small and straightforward for testing front-end code. It doesn't try to replace VS Code or another full editor. It's just a quick place to write some code and see the result.
