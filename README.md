@@ -1,4 +1,5 @@
 # Real-Time Editor
+Project size: 5.41 KB
 
 ![Editor](https://cdn.hackclub.com/01a0d94b-3cde-7a08-9ea5-0a8d48b81fd2/Screenshot%20From%202026-09-25%2018-59-28.png)
 A small browser-based editor where you can write HTML, CSS, and JavaScript and see the result immediately.
