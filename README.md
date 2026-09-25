@@ -1,5 +1,6 @@
 # Real-Time Editor
 
+![Editor](https://cdn.hackclub.com/01a0d94b-3cde-7a08-9ea5-0a8d48b81fd2/Screenshot%20From%202026-09-25%2018-59-28.png)
 A small browser-based editor where you can write HTML, CSS, and JavaScript and see the result immediately.
 
 I built this as a simple way to experiment with front-end code without opening a full editor or setting up a project.
